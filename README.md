@@ -12,8 +12,8 @@
 📫 Связаться со мной: **me@matveymatvey.com**, https://t.me/funkypants00000
 
 <p align="left">
-  Мой Codepen
-<a href="https://codepen.io/matvey-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" /></a>
+  
+<a href="https://codepen.io/matvey-es" target="blank">Мой Codepen<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Я использую в работе:</h4>
