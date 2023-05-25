@@ -7,7 +7,9 @@
 <p>
 👔 Мой опыт коммерческой разработки в <a href="https://spb.hh.ru/resume/f35a199dff0b7ad2f10039ed1f435343396a46">резюме на hh.ru</a>
 
-🔗 Мой профиль на фриланс-бирже [kwork](https://kwork.ru/user/matveysudomoykin)
+🔗 Мой профиль на фриланс-бирже [kwork](https://kwork.ru/user/matveysudomoykin)  
+  
+👨‍💻 Мои личные проекты [https://matveymatvey.com](https://matveymatvey.com)
 
   <h4>Примеры кода</h4>
  <a href="https://codepen.io/matvey-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" />Codepen</a>  <br><br>
@@ -17,9 +19,8 @@
   <p>
 🌱 Я учился программировать самостоятельно, learning by doing.<br>
   Сейчас для систематизации знаний я прохожу курс Skillbox "Fullstack-разработчик"
-
-👨‍💻 Посмотрите мои личные проекты [https://matveymatvey.com](https://matveymatvey.com)
-
+</p>
+  <p>
 📫 Напишите мне: me@matveymatvey.com, https://t.me/funkypants00000
 </p>
 <hr>
