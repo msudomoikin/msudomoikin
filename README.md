@@ -14,6 +14,8 @@
   <h4>Примеры кода</h4>
  <a href="https://codepen.io/matvey-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" />Codepen</a>  <br><br>
   <a href="https://github.com/msudomoikin/skillbox-practice" target="_blank">msudomoikin/skillbox-practice</a>
+  <br><br>
+  <a href="https://github.com/msudomoikin/nuxt-quiz" target="_blank">msudomoikin/nuxt-quiz</a>
 </p>
 <hr>
   <p>
