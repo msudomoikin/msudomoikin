@@ -12,10 +12,13 @@
 👨‍💻 Мои личные проекты [https://matveymatvey.com](https://matveymatvey.com)
 
   <h4>Примеры кода</h4>
- <a href="https://codepen.io/matvey-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" />Codepen</a>  <br><br>
+ <a href="https://codepen.io/matvey-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matvey-es" height="30" width="40" />Codepen</a>
+ <h5>Практика с курса skillbox</h5>
   <a href="https://github.com/msudomoikin/skillbox-practice" target="_blank">msudomoikin/skillbox-practice</a>
-  <br><br>
+<h5>Квиз на nuxt.js, используется ssr для сниппетов соц.сетей</h5>
   <a href="https://github.com/msudomoikin/nuxt-quiz" target="_blank">msudomoikin/nuxt-quiz</a>
+<h5>Интерфейс бронирования комнат гоостиницы, vue.js</h5>
+  <a href="https://matveymatvey.com/hostel-room-rent/" target="_blank">https://matveymatvey.com/hostel-room-rent/</a>
 </p>
 <hr>
   <p>
