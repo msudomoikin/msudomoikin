@@ -11,19 +11,8 @@
   
 👨‍💻 Мои личные проекты [https://matveymatvey.com](https://matveymatvey.com)
 
-  <h2>Примеры кода</h2>
- <h3>Практика с курса skillbox по верстке</h3>
-  <a href="https://msudomoikin.github.io/whitemark-8-2/landing.html" target="_blank">Лендинг жилого комплекса</a>
-  <a href="https://msudomoikin.github.io/whitemark-8-3/info-center.html" target="_blank">Страница новостей</a>
-
-<h3>Интерфейс бронирования комнат гостиницы, Vue3</h3>
-  <a href="https://matveymatvey.com/hostel-room-rent/" target="_blank">https://matveymatvey.com/hostel-room-rent/</a>
-
-<h3>Квиз на nuxt.js, используется ssr для сниппетов соцсетей</h3>
-  <a href="https://github.com/msudomoikin/nuxt-quiz" target="_blank">msudomoikin/nuxt-quiz</a>
-
   <h3>Проекты по креативному программированию</h3>
-  <a href="https://msudomoikin.github.io/raznoobrazie/" target=_blank>Разнообразие</a>
+  <a href="https://msudomoikin.github.io/love/" target=_blank>Осмысление любви через типографику</a>
   <a href="https://msudomoikin.github.io/morellet-html/" target=_blank>Генеративный арт по мотивам картины Франсуа Морелле</a>
   <a href="https://matveymatvey.com/lightning/generative-line-sketch.html" target=_blank>Генеративная молния</a>
 <h3> <a href="https://codepen.io/matveysudomoykin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matveysudomoykin" height="30" width="40" />Codepen</a>
